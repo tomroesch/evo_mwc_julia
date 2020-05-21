@@ -1,0 +1,4 @@
+name = "evo_mwc_julia.jl"
+uuid = "b212ecdc-49a5-470e-a297-695861bba88f"
+authors = ["tomroesch <troeschi@caltech.edu>"]
+version = "0.1.0"
