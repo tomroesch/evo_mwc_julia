@@ -1,5 +1,11 @@
 using Plots
 
+
+"""
+    default_plotlyjs!()
+
+Set plotting default to that used in Physical Biology of the Cell, 2nd edition.
+"""
 function default_plotlyjs!()
     plotlyjs(
         background_color="#E3DCD0",
