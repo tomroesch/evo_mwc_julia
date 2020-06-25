@@ -9,6 +9,7 @@ Set plotting default to that used in Physical Biology of the Cell, 2nd edition.
 function default_plotlyjs!()
     plotlyjs(
         background_color="#E3DCD0",
+        background_color_outside="white",
         foreground_color_grid="#ffffff",
         gridlinewidth= 0.5,
         guidefontfamily="Lucida Sans Unicode",
